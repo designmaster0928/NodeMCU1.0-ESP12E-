@@ -1,0 +1,29 @@
+Importer Log Report
+Project : Adafruit DRV8833.PrjPcb
+
+Section : Analyze Document - F:\TASK\2023\8\NodeMCU1.0(ESP12E)\Refer\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit DRV8833.brd
+    Analyzing data of F:\TASK\2023\8\NodeMCU1.0(ESP12E)\Refer\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit DRV8833.brd
+    Load settings
+    Load layers 143
+    Load board
+    Load Library "microbuilder"
+    Load Packages 13
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - F:\TASK\2023\8\NodeMCU1.0(ESP12E)\Refer\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit DRV8833.sch
+    Analyzing data of F:\TASK\2023\8\NodeMCU1.0(ESP12E)\Refer\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit-DRV8833-Motor-Driver-Breakout-PCB-master\Adafruit DRV8833.sch
+    Load settings
+    Load layers 143
+    Load schematic
+    Load Libraries 1
+    Load Library "microbuilder"
+    Load Packages 47
+    Load Symbols 13
+    Load DeviceSets 13
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 31
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection

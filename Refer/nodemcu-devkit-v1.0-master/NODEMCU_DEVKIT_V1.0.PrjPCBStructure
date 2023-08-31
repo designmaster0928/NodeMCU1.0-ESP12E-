@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=01_SYSTEM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_SYSTEM.SchDoc|FileName=02_ESP12_CORE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_SYSTEM.SchDoc|FileName=03_USB_TO_UART.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_SYSTEM.SchDoc|FileName=04_POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_SYSTEM.SchDoc|FileName=05_IO_CONN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_SYSTEM.SchDoc|FileName=06_KEY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_SYSTEM.SchDoc|FileName=07_ADC.SchDoc|SheetNumber= 
