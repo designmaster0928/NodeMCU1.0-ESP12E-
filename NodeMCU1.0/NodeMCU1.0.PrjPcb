@@ -114,10 +114,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDCGQMLA
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for NodeMCU1.0\Design Rule Check - NodeMCU1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
